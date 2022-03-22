@@ -9,7 +9,7 @@
   
   inputs.src-simpleflake-v0_1_1.flake = false;
   inputs.src-simpleflake-v0_1_1.owner = "aisk";
-  inputs.src-simpleflake-v0_1_1.ref   = "refs/tags/v0.1.1";
+  inputs.src-simpleflake-v0_1_1.ref   = "v0_1_1";
   inputs.src-simpleflake-v0_1_1.repo  = "simpleflake.nim";
   inputs.src-simpleflake-v0_1_1.type  = "github";
   
